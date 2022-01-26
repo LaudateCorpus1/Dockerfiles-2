@@ -1,3 +1,5 @@
+This project in now deprecated and will be archived as the CrowdStrike Linux sensor is supported by Crowdstrike and hosted via the CrowdStrike Container Registry
+
 # Package CrowdStrike's Falcon Linux Sensor as a Container
 This project helps build the scaffolding for customers to containerize their falcon sensor.
 
